@@ -157,25 +157,6 @@ Key Accomplishments:
 - Understanding of business metrics and monetization models
 - Consulting background in business optimization
 
----
-
-### 🚀 Current Focus
-
-I'm actively working on expanding my GitHub portfolio with analytics projects, data visualizations, and product frameworks. These projects showcase:
-- Mobile game analytics and KPI dashboards
-- Player segmentation and cohort analysis
-- A/B testing frameworks and statistical analysis
-- Game economy modeling and simulation
-- Automated reporting pipelines
-
-Check out my pinned repositories to see these projects in action.
-
----
-
-### 📚 Education & Certifications
-
-- **University of Northern Iowa** — Business Administration
-- Continuous learning in analytics, product management, and business leadership
 
 ---
 
